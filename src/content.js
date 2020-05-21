@@ -1,0 +1,1 @@
+alert("Content script injected!");
