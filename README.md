@@ -1,3 +1,3 @@
 # chrome-extension-base
 
-Boilerplate for building a chrome extension
+Boilerplate for building a simple chrome extension
